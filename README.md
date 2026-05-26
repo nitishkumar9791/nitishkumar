@@ -1,4 +1,4 @@
 # nitishkumar
 This is my first git repository
 <br>
-Author-nitish
+Author-nitish(nitishkumar)
